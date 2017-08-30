@@ -1,2 +1,3 @@
 # hello-world
-mirae's first repository
+
+hello. this is mirae. i like ice cream. i screem for ice cream.
